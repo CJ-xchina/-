@@ -1,0 +1,83 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MyPass_Func::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyPass_Func-Debug-aee14532f34c421d8dac.json",
+					"name" : "MyPass_Func",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MyPass_Pass::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyPass_Pass-Debug-83347d2fcc4c10ca5621.json",
+					"name" : "MyPass_Pass",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MyPass_dummy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyPass_dummy-Debug-a1fc1a494df7bdd6ff3d.json",
+					"name" : "MyPass_dummy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MyPass_hello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyPass_hello-Debug-905f93f20300b26166e8.json",
+					"name" : "MyPass_hello",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/MY_FILES/\u5b66\u4e60/\u8d44\u6599/\u8f6f\u4ef6\u6d4b\u8bd5/\u5927\u4f5c\u4e1a2/build",
+		"source" : "D:/MY_FILES/\u5b66\u4e60/\u8d44\u6599/\u8f6f\u4ef6\u6d4b\u8bd5/\u5927\u4f5c\u4e1a2/part1/Passes/MyPass"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,1 @@
+  -LD:/MY_FILES/学习/资料/软件测试/大作业2/part1/Passes/MyPass/build  libMyPass_Func.a -lpthread -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

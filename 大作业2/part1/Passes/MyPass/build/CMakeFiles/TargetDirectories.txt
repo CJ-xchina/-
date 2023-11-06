@@ -1,0 +1,6 @@
+D:/MY_FILES/学习/资料/软件测试/大作业2/part1/Passes/MyPass/build/CMakeFiles/MyPass_Pass.dir
+D:/MY_FILES/学习/资料/软件测试/大作业2/part1/Passes/MyPass/build/CMakeFiles/MyPass_Func.dir
+D:/MY_FILES/学习/资料/软件测试/大作业2/part1/Passes/MyPass/build/CMakeFiles/MyPass_dummy.dir
+D:/MY_FILES/学习/资料/软件测试/大作业2/part1/Passes/MyPass/build/CMakeFiles/MyPass_hello.dir
+D:/MY_FILES/学习/资料/软件测试/大作业2/part1/Passes/MyPass/build/CMakeFiles/edit_cache.dir
+D:/MY_FILES/学习/资料/软件测试/大作业2/part1/Passes/MyPass/build/CMakeFiles/rebuild_cache.dir

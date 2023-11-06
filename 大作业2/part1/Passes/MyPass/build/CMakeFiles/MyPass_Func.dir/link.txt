@@ -1,0 +1,2 @@
+D:/SoftWare/Environment/C++/MinGW-w64/mingw64/bin/ar.exe qc libMyPass_Func.a CMakeFiles/MyPass_Func.dir/MyFunc.obj
+D:/SoftWare/Environment/C++/MinGW-w64/mingw64/bin/ranlib.exe libMyPass_Func.a
