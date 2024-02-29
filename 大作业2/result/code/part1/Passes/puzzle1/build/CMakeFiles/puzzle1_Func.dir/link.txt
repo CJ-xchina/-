@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpuzzle1_Func.a CMakeFiles/puzzle1_Func.dir/MyFunc.o
+/usr/bin/ranlib libpuzzle1_Func.a

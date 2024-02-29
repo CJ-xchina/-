@@ -1,0 +1,40 @@
+.. title:: clang-tidy - NoVoidPointer202328015059001Check
+
+NoVoidPointer202328015059001Check
+=================================
+
+FIXME: Describe what patterns does the check detect and why. Give examples.
+
+
+**目的：**
+
+`NoVoidPointer202328015059001Check`检查器的目的是在C++代码中识别并报告对`void*`类型指针的使用。
+
+**实现：**
+
+1. **匹配器注册（Matcher Registration）：**
+   在`registerMatchers`函数中，检查器使用clang的AST匹配器（`ast_matchers`）匹配两种情况：声明为`void*`类型的变量和将指针静态转换为`void*`类型的表达式。
+
+   - 使用`varDecl(hasType(pointsTo(voidType())))`匹配`void*`类型的变量声明。
+   - 使用`cxxStaticCastExpr(hasDestinationType(pointsTo(voidType())))`匹配将指针转换为`void*`类型的静态转换表达式。
+
+2. **检查器逻辑（Checker Logic）：**
+   在`check`函数中，首先检查是否存在名为`voidPointerVar`或`staticCastToVoid`的节点。如果存在，根据节点类型进行相应的处理。
+
+3. **错误诊断（Error Diagnostic）：**
+   如果检测到使用`void*`类型的指针，检查器会在源代码中的相应位置报告一个警告，警告信息为“using void pointer type [ucassaat-no-void-pointer]”。
+
+**示例：**
+
+在下面的代码中：
+
+.. code:: cpp
+
+   void exampleFunction() {
+       void *ptr; // 违反规则：使用了void*类型
+       int x = 5;
+       ptr = static_cast<void*>(&x); // 违反规则：将指针转换为void*类型
+       // ...
+   }
+
+函数`exampleFunction`中的`ptr`声明和对`static_cast`的使用违反了规则，因为它们涉及了`void*`类型的使用。这些情况将被`NoVoidPointer202328015059001Check`检查器标记为警告。这是因为该检查器旨在鼓励开发者避免使用`void*`指针，以提高类型安全性和代码可读性。

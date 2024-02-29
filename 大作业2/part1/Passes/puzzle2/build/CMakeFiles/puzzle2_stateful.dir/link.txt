@@ -1,0 +1,1 @@
+/usr/bin/clang++ -rdynamic CMakeFiles/puzzle2_stateful.dir/home/c/Code/CPP/software-test/大作业2/part1/test/puzzle2/stateful.o -o puzzle2_stateful   -L/home/c/Code/CPP/software-test/大作业2/part1/Passes/puzzle2/build  libpuzzle2_Func.a -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/clang++ -rdynamic CMakeFiles/puzzle1_case1.dir/home/c/Code/CPP/software-test/大作业2/part1/test/puzzle1/case1.o -o puzzle1_case1   -L/home/c/Code/CPP/software-test/大作业2/part1/Passes/puzzle1/build  libpuzzle1_Func.a -lpthread 

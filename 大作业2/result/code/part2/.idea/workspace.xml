@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20c3db22-f075-4341-9926-8cc9c7b08f0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/大作业2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/code/code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/test/test_findDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/test/test_findOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/test/test_maxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/code.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/test_findDuplicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/test_findOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/test_maxProfit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/report/org.example/test_findOdd.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/report/org.example/test_maxProfit.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part2/src/main/java/com/cjx/test_findOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part2/src/main/java/com/cjx/test_maxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part2/~$变异测试.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/.cmake/api/v1/reply/cache-v2-70961cd91c94f49ab7b8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/.cmake/api/v1/reply/cmakeFiles-v1-0167619a240d52defdc4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/.cmake/api/v1/reply/codemodel-v2-5f7743093947078637eb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/.cmake/api/v1/reply/index-2023-11-06T07-59-13-0433.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/.cmake/api/v1/reply/target-MyPass_hello-Debug-905f93f20300b26166e8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../build/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../build/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/MyFunc.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/MyPass.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/ALL_BUILD.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/ALL_BUILD.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/049d1cf5e03f132f7c0fedd57cf684e5/MyPass_dummy.rule" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/049d1cf5e03f132f7c0fedd57cf684e5/generate.stamp.rule" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/3.28.0-rc3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/3.28.0-rc3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/3.28.0-rc3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/3.28.0-rc3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/3.28.0-rc3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/3.28.0-rc3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/3.28.0-rc3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/3.28.0-rc3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/3.28.0-rc3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/3.28.0-rc3/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/CMakeRuleHashes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Func.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Func.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Func.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Func.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Func.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Func.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Func.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Func.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Func.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Func.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Pass.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Pass.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Pass.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Pass.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Pass.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Pass.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Pass.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Pass.dir/linkLibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Pass.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_Pass.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_dummy.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_dummy.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_dummy.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_dummy.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_dummy.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_dummy.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_hello.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_hello.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_hello.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_hello.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_hello.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_hello.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_hello.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_hello.dir/linkLibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_hello.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/MyPass_hello.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/generate.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/generate.stamp.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/generate.stamp.list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/MyPass_Func.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/MyPass_Func.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/MyPass_Pass.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/MyPass_Pass.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/MyPass_dummy.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/MyPass_dummy.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/MyPass_hello.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/MyPass_hello.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/Project.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/ZERO_CHECK.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/ZERO_CHECK.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/Passes/MyPass/build/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../part1/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:\Local Ide\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YQa3q9PEKPjKyuaaGzBfwM1rrD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/MY_FILES/学习/资料/软件测试/大作业2/p2/src/main/java/org/example",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MY_FILES\学习\资料\软件测试\大作业2\p2\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="test_findDuplicate.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="p2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.test" />
+      <option name="MAIN_CLASS_NAME" value="org.example.test.test_findDuplicate" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_findOdd.test_findOddOccurrence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="p2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.test" />
+      <option name="MAIN_CLASS_NAME" value="org.example.test.test_findOdd" />
+      <option name="METHOD_NAME" value="test_findOddOccurrence" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_maxProfit.test_maxProfit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="p2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.test" />
+      <option name="MAIN_CLASS_NAME" value="org.example.test.test_maxProfit" />
+      <option name="METHOD_NAME" value="test_maxProfit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code.java.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/p2/target/pit-reports/202311201406/org.example/code.java.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/p2/target/report/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JUnit.test_maxProfit.test_maxProfit" />
+        <item itemvalue="JUnit.test_findOdd.test_findOddOccurrence" />
+        <item itemvalue="JavaScript Debug.code.java.html" />
+        <item itemvalue="JUnit.test_findDuplicate.testAdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20c3db22-f075-4341-9926-8cc9c7b08f0f" name="Changes" comment="" />
+      <created>1700460061042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700460061042</updated>
+      <workItem from="1700460063603" duration="1891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

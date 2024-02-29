@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\MY_FILES\学习\资料\软件测试\大作业2\part1\Passes\puzzle2\MyPass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\MY_FILES\学习\资料\软件测试\大作业2\part1\Passes\puzzle2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3EB466DE-E71E-39D7-A4AA-BAE0D11E6F5C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

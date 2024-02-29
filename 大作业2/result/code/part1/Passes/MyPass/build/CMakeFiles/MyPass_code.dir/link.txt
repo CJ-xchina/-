@@ -1,0 +1,1 @@
+/usr/bin/clang++ -rdynamic CMakeFiles/MyPass_code.dir/home/c/Code/CPP/software-test/大作业2/part1/test/hello/code.o -o MyPass_code   -L/home/c/Code/CPP/software-test/大作业2/part1/Passes/MyPass/build  libMyPass_Func.a -lpthread 

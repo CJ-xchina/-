@@ -1,0 +1,39 @@
+.. title:: clang-tidy - NoRegisterVar202328015059001Check
+
+NoRegisterVar202328015059001Check
+=================================
+
+FIXME: Describe what patterns does the check detect and why. Give examples.
+
+
+**目的：**
+
+`NoRegisterVar202328015059001Check`检查器的目的是识别并报告在C++代码中使用了`register`存储类说明符的变量声明。
+
+**实现：**
+
+1. **匹配器注册（Matcher Registration）：**
+   在`registerMatchers`函数中，检查器使用clang的AST匹配器（`ast_matchers`）匹配所有的变量声明（`varDecl`）。
+
+   - 使用`varDecl`匹配所有变量声明。
+   - 绑定匹配到的变量为`registerVar`以便在`check`函数中使用。
+
+2. **检查器逻辑（Checker Logic）：**
+   在`check`函数中，首先从匹配结果中获取名为`registerVar`的变量声明节点。然后检查该变量声明是否使用了`register`存储类。如果是，则进行报告。
+
+3. **错误诊断（Error Diagnostic）：**
+   如果一个变量声明使用了`register`存储类，检查器会在源代码中的相应位置报告一个警告，警告信息为“using register variable %0”，其中%0将被替换为变量的名称。
+
+**示例：**
+
+在下面的代码中：
+
+.. code:: cpp
+
+    int main(void) {
+        // 违背规则
+        register int a = 1;
+        return a;
+    }
+
+函数`main`中的变量`a`声明违反了规则，因为它使用了已废弃的`register`存储类。这个声明将被`NoRegisterVar202328015059001Check`检查器标记为警告。这是因为该检查器旨在识别并鼓励开发者移除对现代C++标准中已不再使用的`register`关键字的依赖。

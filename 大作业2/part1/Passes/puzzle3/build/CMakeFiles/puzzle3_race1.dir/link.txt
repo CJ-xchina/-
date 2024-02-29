@@ -1,0 +1,1 @@
+/usr/bin/clang++ -rdynamic CMakeFiles/puzzle3_race1.dir/home/c/Code/CPP/software-test/大作业2/part1/test/puzzle3/race1.o -o puzzle3_race1   -L/home/c/Code/CPP/software-test/大作业2/part1/Passes/puzzle3/build  libpuzzle3_Func.a -lpthread 

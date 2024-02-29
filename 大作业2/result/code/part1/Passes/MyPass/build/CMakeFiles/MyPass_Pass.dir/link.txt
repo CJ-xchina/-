@@ -1,0 +1,1 @@
+/usr/bin/clang++ -fPIC -shared  -o libMyPass_Pass.so CMakeFiles/MyPass_Pass.dir/MyPass.o 

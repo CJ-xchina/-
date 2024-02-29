@@ -1,0 +1,6 @@
+/home/c/Code/CPP/software-test/大作业2/part1/Passes/puzzle1/build/CMakeFiles/puzzle1_Pass.dir
+/home/c/Code/CPP/software-test/大作业2/part1/Passes/puzzle1/build/CMakeFiles/puzzle1_Func.dir
+/home/c/Code/CPP/software-test/大作业2/part1/Passes/puzzle1/build/CMakeFiles/puzzle1_dummy.dir
+/home/c/Code/CPP/software-test/大作业2/part1/Passes/puzzle1/build/CMakeFiles/puzzle1_case1.dir
+/home/c/Code/CPP/software-test/大作业2/part1/Passes/puzzle1/build/CMakeFiles/edit_cache.dir
+/home/c/Code/CPP/software-test/大作业2/part1/Passes/puzzle1/build/CMakeFiles/rebuild_cache.dir

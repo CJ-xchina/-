@@ -1,0 +1,1 @@
+/usr/bin/clang++ -fPIC -shared  -o libpuzzle1_Pass.so CMakeFiles/puzzle1_Pass.dir/MyPass.o 
